@@ -1,0 +1,12 @@
+{
+    "ID": "C7529F50-2A71-441D-8200-D5C3BCAADAB2",
+    "ActionKeyword": "mc",
+    "Name": "MediaControl",
+    "Description": "A plugin to control media playback",
+    "Author": "PederBirk",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/PederBirk/Flow.Launcher.Plugin.MediaControl",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.MediaControl.dll"
+}
