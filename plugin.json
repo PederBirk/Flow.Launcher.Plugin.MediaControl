@@ -4,7 +4,7 @@
     "Name": "MediaControl",
     "Description": "A plugin to control media playback",
     "Author": "PederBirk",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Language": "csharp",
     "Website": "https://github.com/PederBirk/Flow.Launcher.Plugin.MediaControl",
     "IcoPath": "icon.png",
