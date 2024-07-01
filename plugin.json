@@ -7,6 +7,6 @@
     "Version": "1.0.1",
     "Language": "csharp",
     "Website": "https://github.com/PederBirk/Flow.Launcher.Plugin.MediaControl",
-    "IcoPath": "icon.png",
+    "IcoPath": "images/icon.png",
     "ExecuteFileName": "Flow.Launcher.Plugin.MediaControl.dll"
 }
